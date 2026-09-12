@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# TumorPhylogenyLearning
+# TumorPhylogenyLearning
 
 This repository contains the preliminary analysis for the project **Learning Conserved Evolutionary Patterns in Cancer from Patient-Specific Tumor Phylogenies**.
 
