@@ -23,7 +23,7 @@ The current analysis includes:
 - UMAP visualization
 - representative tumor phylogeny analysis
 
-The analysis initially considered **25 structural and mutation-based evolutionary features**. After examining feature redundancy, the representation was reduced to **6 relatively non-redundant evolutionary features**.
+
 
 ## Dataset
 
@@ -41,8 +41,6 @@ https://zenodo.org/records/7683605
 - `Feature_corelation__Learning_Conserved_Evolutionary_Patterns_of_Cancer_Metastasis_from_Tumour_Phylogenies.ipynb`  
   Feature correlation and feature reduction analysis.
 
-- `Metastasis__Learning_Conserved_Evolutionary_Patterns_in_Cancer_from_Tumour_Phylogenies_ipynb.ipynb`  
-  Additional exploratory analysis related to tumor evolutionary patterns.
 
 ## Note
 
