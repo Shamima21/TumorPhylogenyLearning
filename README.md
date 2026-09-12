@@ -53,9 +53,5 @@ This repository contains **preliminary and exploratory analyses**.
 **Shamima Naznin**  
 Department of Computer Science and Engineering  
 Bangladesh University of Engineering and Technology (BUET)
-"""
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
 
-print(path)
